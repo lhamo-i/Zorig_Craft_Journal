@@ -1,11 +1,4 @@
-//
-//  Persistence.swift
-//  CraftJournal
-//
-//  Created by iMac18 on 9/28/26.
-//
-
-import CoreData
+  import CoreData
 
 struct PersistenceController {
     static let shared = PersistenceController()
